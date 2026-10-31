@@ -11,7 +11,7 @@ Catálogo digital público de Racoon para `https://shop.racoonjw.com`.
 - Detalle con imágenes, videos y PDF.
 - Compra por WhatsApp.
 
-El número usado por defecto es el de SIGA (`5215634861468`). Cámbialo en `js/catalogo.js` o define `window.RACOON_WHATSAPP` antes de cargar el módulo.
+El número usado por defecto es `524761410765` (+52 476 141 0765). Cámbialo en `js/catalogo.js` o define `window.RACOON_WHATSAPP` antes de cargar el módulo.
 
 ## Desarrollo local
 

@@ -1,7 +1,7 @@
 const API_BASE = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
   ? 'http://localhost:8030/api/v1' : '/api/v1';
 const MEDIA_BASE = API_BASE.startsWith('http') ? API_BASE.replace(/\/api\/v1\/?$/, '') : '';
-const WHATSAPP = window.RACOON_WHATSAPP || '5215634861468';
+const WHATSAPP = window.RACOON_WHATSAPP || '524761410765';
 const state = { category: '', search: '', page: 0, size: 24, hasMore: true, loading: false, products: [], categories: [], activeProduct: null };
 
 const $ = selector => document.querySelector(selector);
